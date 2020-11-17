@@ -1,0 +1,7 @@
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\KariyerTest\bin\Debug\KariyerTest.exe.config
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\KariyerTest\bin\Debug\KariyerTest.exe
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\KariyerTest\bin\Debug\KariyerTest.pdb
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\KariyerTest\obj\Debug\KariyerTest.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\KariyerTest\obj\Debug\KariyerTest.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\KariyerTest\obj\Debug\KariyerTest.exe
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\KariyerTest\obj\Debug\KariyerTest.pdb

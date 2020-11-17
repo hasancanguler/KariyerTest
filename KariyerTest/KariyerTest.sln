@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KariyerTest", "KariyerTest.csproj", "{8FA0DFB9-4E43-4E92-AB76-00C0A01E69B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestKariyer", "..\UnitTestKariyer\UnitTestKariyer.csproj", "{1A3E44C7-1095-4B73-A47D-2E06A2F1B300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA0DFB9-4E43-4E92-AB76-00C0A01E69B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA0DFB9-4E43-4E92-AB76-00C0A01E69B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA0DFB9-4E43-4E92-AB76-00C0A01E69B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA0DFB9-4E43-4E92-AB76-00C0A01E69B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A3E44C7-1095-4B73-A47D-2E06A2F1B300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3E44C7-1095-4B73-A47D-2E06A2F1B300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3E44C7-1095-4B73-A47D-2E06A2F1B300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3E44C7-1095-4B73-A47D-2E06A2F1B300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CDD0442-F4FE-47DD-BC89-5FFEDCDA7C02}
+	EndGlobalSection
+EndGlobal

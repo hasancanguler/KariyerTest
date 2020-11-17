@@ -1,0 +1,17 @@
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\bin\Debug\UnitTestKariyer.dll
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\bin\Debug\UnitTestKariyer.pdb
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\obj\Debug\UnitTestKariyer.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\obj\Debug\UnitTestKariyer.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\obj\Debug\UnitTestKariyer.csproj.CopyComplete
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\obj\Debug\UnitTestKariyer.dll
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\obj\Debug\UnitTestKariyer.pdb
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\bin\Debug\KariyerTest.exe
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\bin\Debug\KariyerTest.pdb
+C:\Users\Hasan\Desktop\Projeler\KariyerTest\UnitTestKariyer\bin\Debug\KariyerTest.exe.config
