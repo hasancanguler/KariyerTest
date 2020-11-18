@@ -73,3 +73,17 @@ Please write (or tell) something about below terms.
 **Web Service (REST, SOAP) :** Web Service is one of a communication type. Rest and SOAP are types of web service.  Rest can call simply with URL address which uses GET, POST, PUT etc. methods however SOAP uses with a service reference 
 
 **Ajax :** Ajax support that running server-side process on client-side 
+
+**HTTP GET vs POST vs PUT :** Get uses to getting data. it can call with any browser. Post uses to insert data, it includes required data in form-data in a body part. Put uses to update data.
+
+**Struct vs Class :** Struct runs like a little class but the most important difference is that struct is a value-type and class is a reference-type.
+
+**Interface vs Abstract class :** Abstract classes is a base class for member class but interfaces decide rules. It's mean that abstract classes extent classes. Also, abstract classes can include methods but interfaces can not include any method.
+
+**Public vs Protected vs Private vs Internal :** This is an access modifier for class or method. The public is accessible from anywhere. The protected is accessible from just the same class or inheritance class. The private is accessible from just the same class. The Internal is accessible from the same project itself.
+
+**MVC :** There are two types of MVC description. One of them MVC as a design pattern. This is consists of layers such as Model-Viewer-Controller. Another type is project type. This is MVC as a project type. This project type consists of controllers, views and model parts.
+
+**ORM :** ORM is a helper for programmers to making a relation between database and programs. Thanks to ORM we can access database object in a project as a class. Especially, entity framework is a best friend to .Net developer.
+
+**Dependency Injection :** DI is the most difficult of solid principles but one of the most important. DI aims loosely coupled through interfaces. For example, when you call an object if you call this object with new tags directly, the object and other object depend on each other. But if you call object with an interface which is implemented, you turn dependency as the reverse. 
