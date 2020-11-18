@@ -62,3 +62,14 @@ Please write (or tell) something about below terms.
 
 **Cookie vs Session (Web) :** Some temporary data may are wanted to store during the browse a web page such as login info or user's basket. We can use cookie or session for this action. Cookies keep info on users local pc however sessions keep info server's memory.
 
+**Cache (Web) :** A cache is another temporary info related to a web page. There is some third party application for managing cache such as Redis.
+
+**Dictionary (C#, Java etc) :** Dictionary is a class which is a store a list as a key and value. It runs like an array, on the other hand, even it can store class in there.
+
+**string vs StringBuilder :** String is a value type variable. StringBuilder is a class using for joining different variables.
+
+**JSON vs XML :** JSON keeps data lightly but XML needs more please than JSON. Generally, JSON uses with restful services, XML uses with  SOAP.
+
+**Web Service (REST, SOAP) :** Web Service is one of a communication type. Rest and SOAP are types of web service.  Rest can call simply with URL address which uses GET, POST, PUT etc. methods however SOAP uses with a service reference 
+
+**Ajax :** Ajax support that running server-side process on client-side 
