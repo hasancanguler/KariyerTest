@@ -72,7 +72,7 @@ Please write (or tell) something about below terms.
 
 **Web Service (REST, SOAP) :** Web Service is one of a communication type. Rest and SOAP are types of web service.  Rest can call simply with URL address which uses GET, POST, PUT etc. methods however SOAP uses with a service reference 
 
-**Ajax :** Ajax support that running server-side process on client-side 
+**Ajax :** Ajax provides that running server-side methods on client-side. 
 
 **HTTP GET vs POST vs PUT :** Get uses to getting data. it can call with any browser. Post uses to insert data, it includes required data in form-data in a body part. Put uses to update data.
 
